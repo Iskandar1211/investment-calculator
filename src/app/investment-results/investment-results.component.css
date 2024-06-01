@@ -1,0 +1,22 @@
+.center {
+  text-align: center;
+}
+table {
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+tr,
+td,
+th {
+  border: 1px solid white;
+}
+
+th {
+  color: #73e2b5;
+  padding: 4px 10px;
+}
+td {
+  padding: 4px 10px;
+  text-align: end;
+}
